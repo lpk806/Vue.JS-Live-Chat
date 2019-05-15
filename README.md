@@ -22,5 +22,5 @@ For a detailed explanation on how things work, check out the [guide](http://vuej
 
 ## Test
 ```
-https://vue-live-chat-264c6.firebaseapp.com/
+<a href="https://vue-live-chat-264c6.firebaseapp.com/">Click me</a>
 ```
